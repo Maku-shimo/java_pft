@@ -1,6 +1,6 @@
-sandbox/.gradle
-sandbox/build/
-sandbox/bin/
+.gradle
+build/
+bin/
 # Ignore Gradle GUI config
 gradle-app.setting
 
