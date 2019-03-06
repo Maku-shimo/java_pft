@@ -9,3 +9,5 @@ $g_default_timezone       = 'UTC';
 
 $g_crypto_master_salt     = 'ErvR/W01JvuG0vVcV/gacyRU29nTqfOOIxHbMU+C9sk=';
 $g_signup_use_captcha = OFF;
+$g_phpMail_method = PHPMAILER_METHOD_SMTP
+$g_smtp_host = 'localhost'
