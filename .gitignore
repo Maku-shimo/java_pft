@@ -14,4 +14,4 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 info.txt
 .idea/workspace.xml
-./github-sample/*.**
+github-sample/*.**
