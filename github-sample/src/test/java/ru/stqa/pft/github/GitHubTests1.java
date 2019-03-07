@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 import java.io.IOException;
 
-public class GitHubTests {
+public class GitHubTests1 {
 
     @Test
     public void testCommits() throws IOException {
